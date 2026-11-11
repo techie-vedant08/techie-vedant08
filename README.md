@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Vedant Singh - Developer Portfolio">
+</p>
 # Hey, I'm Vedant Singh 👋
 
 ### Developer · Product Builder · Technology Enthusiast
@@ -93,6 +96,4 @@ I'm always interested in connecting with people who enjoy technology, innovation
 
 **Build · Learn · Grow**
 
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="Vedant Singh - Developer Portfolio">
-</p>
+
