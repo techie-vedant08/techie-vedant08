@@ -82,10 +82,10 @@ Explore my repositories for experiments, web development projects, learning proj
 
 I'm always interested in connecting with people who enjoy technology, innovation, creativity and building meaningful things.
 
-- GitHub: [@vedant614](https://github.com/vedant614)
-- LinkedIn: [Add your LinkedIn URL]
-- Portfolio: [Add your portfolio URL]
-- Email: [Add your professional email]
+- GitHub: [@techie-vedant08](https://github.com/techie-vedant08)
+- LinkedIn: [Vedant Singh](https://www.linkedin.com/in/vedant-singh-870879228/)
+- Portfolio: [My Portfolio](https://vedantsingh1.netlify.app/)
+- Instagram: [Techie_vedant08](https://www.instagram.com/techie_vedant08?mdxt=cjRpM3MwZjJza2sz)
 
 ---
 
